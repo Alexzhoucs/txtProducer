@@ -2,7 +2,7 @@
 
 void main()
 {
-	int i, m, n = 100;
+	int i, m, n = 1000;
 	string a = "http://wscdn.alhls.xiaoka.tv/2018621/300/664/8UEl_fY0-Y5NX2Ac/";
 	string b = ".ts";
 	string c = "URL.txt";
